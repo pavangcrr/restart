@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Devop /n jinkins maven git integraction is done for the first time  " );
+        System.out.println( "Hello Devop class /n jinkins maven git integraction is done for the first time  " );
     }
 }
